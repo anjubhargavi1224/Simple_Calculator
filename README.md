@@ -6,8 +6,8 @@ A simple calculator made by using HTML CSS and JavaScript.to perform calculation
 
 ## Features
 
-- **Beautiful Sleek UI:** 
-- **Responsive Design:**
+- **Beautiful Sleek UI** 
+- **Responsive Design**
 
   
 ## Technologies Used
